@@ -23,12 +23,12 @@ if (number >= 2) {
 }
 
 */
-//testing commits
+
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// we create a variable and assign it the string 'Dane'
+// We create a conditional that tests if name is an exact match for 'Mary' we console log 'Hi, Mary!'
+// if name is not an exact match to 'Mary', we console log 'How do you do?'
 //
 
 //CODE
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we create a variable named 'secret' and another named 'code' with the assignment of 123.
+// if code is an exact match to 123, variable 'secret' gets reassigned to 'super', 
+// and 'code' is multiplied by 2. 
+//if 'code' is greater than 250, 'secret' is reassigned to 'duper'
 
 //CODE
 /*
