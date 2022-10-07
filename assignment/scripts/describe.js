@@ -70,11 +70,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
-
+// assign 'isStudent' with the boolean 'true'.
+// create variables 'age' assigned to 34, and 'zip' assigned to 55407
+// if 'isStudent is exactly true, AND 'zip' is less than 80000, we console log 'You're a student on the West Coast!'
+//if 'isStudent' is false OR 'age' is less than 30, we console log 'What are your hobbies?'
+//if just 'isStudent is true, we console log 'Welcome to Prime!'
+//for all other scenarios, console log 'How about the weather?'
 //CODE
 /*
 let isStudent = true;
@@ -130,12 +131,13 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
-let colorTwo = 'blue';
+let colorOne = 'blue';
+let colorTwo = 'red';
 let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+  colorTwo = 'purple';
 }
 */
 
@@ -147,7 +149,7 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
-if (temp > 39 || time >= 4) {
+if (temp > 39 && time >= 4) {
   console.log('throw away the food!');
 }
 */
@@ -161,9 +163,9 @@ let age = 21;
 const minAge = 21;
 
 if(minAge <= age) {
-  console.log('no entry');
+  console.log('enter);
 } else {
-  console.log('enter');
+  console.log('no entry');
 }
 */
 
